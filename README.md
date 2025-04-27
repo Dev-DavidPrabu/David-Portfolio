@@ -4,11 +4,6 @@
 ### Demo Video - 
 ### Open Source UI Components -
 
-### Tutorials
-
-Youtube - https://www.youtube.com/watch?v=8cmJ2kR4SpM
-
-Blog - https://www.chetanverma.com/blog/how-to-build-a-portfolio-website-using-nextjs-and-tailwindcss
 
 ### Features - 
 
